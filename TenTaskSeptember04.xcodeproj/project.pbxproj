@@ -13,6 +13,7 @@
 		7CA0115D2AA61A9600FDC2EA /* TaskThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA0115C2AA61A9600FDC2EA /* TaskThree.swift */; };
 		7CA0115F2AA61D2900FDC2EA /* TaskFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA0115E2AA61D2900FDC2EA /* TaskFour.swift */; };
 		7CA011612AA61DF100FDC2EA /* TaskFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011602AA61DF100FDC2EA /* TaskFive.swift */; };
+		7CA011632AA61FA700FDC2EA /* TaskSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011622AA61FA700FDC2EA /* TaskSix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		7CA0115C2AA61A9600FDC2EA /* TaskThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskThree.swift; sourceTree = "<group>"; };
 		7CA0115E2AA61D2900FDC2EA /* TaskFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFour.swift; sourceTree = "<group>"; };
 		7CA011602AA61DF100FDC2EA /* TaskFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFive.swift; sourceTree = "<group>"; };
+		7CA011622AA61FA700FDC2EA /* TaskSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskSix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				7CA0115C2AA61A9600FDC2EA /* TaskThree.swift */,
 				7CA0115E2AA61D2900FDC2EA /* TaskFour.swift */,
 				7CA011602AA61DF100FDC2EA /* TaskFive.swift */,
+				7CA011622AA61FA700FDC2EA /* TaskSix.swift */,
 			);
 			path = TenTaskSeptember04;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				7CA0115B2AA6188700FDC2EA /* TaskTwo.swift in Sources */,
 				7CA011612AA61DF100FDC2EA /* TaskFive.swift in Sources */,
 				7CA011592AA5EE6000FDC2EA /* TaskOne.swift in Sources */,
+				7CA011632AA61FA700FDC2EA /* TaskSix.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
