@@ -22,7 +22,7 @@ func firstNonConsecutive(_ arr: [Int]) -> Int? {
     }
     for item in 1..<arr.count {
         if arr[item] - result != 1 {
-            return arr[item] as! Int?
+            return arr[item] 
         }
         result = arr[item]
     }
