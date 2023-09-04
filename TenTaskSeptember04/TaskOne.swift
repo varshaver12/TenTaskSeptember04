@@ -29,5 +29,3 @@ func firstNonConsecutive(_ arr: [Int]) -> Int? {
     
     return nil
 }
-
-
