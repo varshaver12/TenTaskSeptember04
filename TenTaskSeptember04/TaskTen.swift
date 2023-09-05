@@ -9,6 +9,7 @@
 import Foundation
 
 // MARK: Solution 1
+
 func doubleton(_ num: Int) -> Int {
     var result = num + 1
     if isDoubleton(result) {
