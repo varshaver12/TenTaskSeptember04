@@ -15,6 +15,8 @@
 		7CA011612AA61DF100FDC2EA /* TaskFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011602AA61DF100FDC2EA /* TaskFive.swift */; };
 		7CA011632AA61FA700FDC2EA /* TaskSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011622AA61FA700FDC2EA /* TaskSix.swift */; };
 		7CA011652AA6206100FDC2EA /* TaskSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011642AA6206100FDC2EA /* TaskSeven.swift */; };
+		7CA011672AA6294F00FDC2EA /* TaskEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA011662AA6294F00FDC2EA /* TaskEight.swift */; };
+		7CC1A3872AA72730003BC479 /* TaskTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC1A3862AA72730003BC479 /* TaskTen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +41,8 @@
 		7CA011602AA61DF100FDC2EA /* TaskFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFive.swift; sourceTree = "<group>"; };
 		7CA011622AA61FA700FDC2EA /* TaskSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskSix.swift; sourceTree = "<group>"; };
 		7CA011642AA6206100FDC2EA /* TaskSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskSeven.swift; sourceTree = "<group>"; };
+		7CA011662AA6294F00FDC2EA /* TaskEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskEight.swift; sourceTree = "<group>"; };
+		7CC1A3862AA72730003BC479 /* TaskTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 				7CA011602AA61DF100FDC2EA /* TaskFive.swift */,
 				7CA011622AA61FA700FDC2EA /* TaskSix.swift */,
 				7CA011642AA6206100FDC2EA /* TaskSeven.swift */,
+				7CA011662AA6294F00FDC2EA /* TaskEight.swift */,
+				7CC1A3862AA72730003BC479 /* TaskTen.swift */,
 			);
 			path = TenTaskSeptember04;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 				7CA011592AA5EE6000FDC2EA /* TaskOne.swift in Sources */,
 				7CA011652AA6206100FDC2EA /* TaskSeven.swift in Sources */,
 				7CA011632AA61FA700FDC2EA /* TaskSix.swift in Sources */,
+				7CC1A3872AA72730003BC479 /* TaskTen.swift in Sources */,
+				7CA011672AA6294F00FDC2EA /* TaskEight.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

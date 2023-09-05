@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(validParentheses(")("))
+print(doubleton(1434))
 
